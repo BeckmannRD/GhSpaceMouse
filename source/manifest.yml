@@ -1,0 +1,15 @@
+---
+name: ghspacemouse
+version: 1.0.0
+authors:
+- BeckmannRD
+description: >
+  Navigate the Grasshopper 2 canvas with a 3Dconnexion SpaceMouse. Hover over Grasshopper and the
+  SpaceMouse pans and zooms the canvas; hover over Rhino and it moves the viewport as usual.
+  Windows only; requires 3DxWare. Toggle with the GhSpaceMouse command.
+url: https://github.com/BeckmannRD/GhSpaceMouse
+keywords:
+- spacemouse
+- 3dconnexion
+- grasshopper2
+- navigation
